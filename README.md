@@ -66,4 +66,4 @@ To transition VORTEX from a functional prototype to a flight-qualified system, o
 3. Open the Serial Monitor at **115200 baud** and send the `HELP` or `STATUS` command to view live telemetry and the simulated vacuum temperature model.
 
 ---
-*Special thanks to ZUUP PCB Workshop for their support.*
+
