@@ -42,7 +42,7 @@ Our system drives piezoelectric ultrasonic transducers at resonant frequencies (
 * **EEPROM Persistence:** Autonomous startup using safely stored and verified configuration profiles.
 * **Burst Mode:** Configurable active/cooldown duty cycling (e.g., 15s ON / 30s OFF) optimized for vacuum operations.
 
-![alt text](image.png)
+![alt text](schematic.png)
 ---
 
 ## 🛣️ Flight-Ready Roadmap
